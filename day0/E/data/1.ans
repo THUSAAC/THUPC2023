@@ -1,0 +1,45 @@
+North 1 took 136 damage from South 1 -> 176468/176604
+North: 176468/176604 864367/864367
+South: 287601/287601 16405/16405
+
+South 1 took 838265 damage from North 1 -> 0/287601
+North: 176468/176604 864367/864367
+South: 0/287601 16405/16405
+
+North 2 took 0 damage from South 2 -> 864367/864367
+North: 176468/176604 864367/864367
+South: 0/287601 16405/16405
+
+North 2 applied Weak skill to North 1
+North 1 recovered +26490 hp -> 176604/176604
+North: 176604/176604 864367/864367
+South: 0/287601 16405/16405
+
+North 1 took 0 damage from South 2 -> 176604/176604
+North: 176604/176604 864367/864367
+South: 0/287601 16405/16405
+
+North 1 applied Average skill to South 2
+South 2 took 1476 damage from skill -> 14929/16405
+North: 176604/176604 864367/864367
+South: 0/287601 14929/16405
+
+North 2 took 7122 damage from South 2 -> 857245/864367
+North: 176604/176604 857245/864367
+South: 0/287601 14929/16405
+
+North 2 applied Weak skill to North 2
+North 2 recovered +129655 hp -> 864367/864367
+South 2 took 1476 damage from skill -> 13453/16405
+North: 176604/176604 864367/864367
+South: 0/287601 13453/16405
+
+North 2 took 9496 damage from South 2 -> 854871/864367
+North: 176604/176604 854871/864367
+South: 0/287601 13453/16405
+
+South 2 took 77703 damage from North 1 -> 0/16405
+North: 176604/176604 854871/864367
+South: 0/287601 0/16405
+
+Team North won.

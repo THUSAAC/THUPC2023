@@ -1,0 +1,13 @@
+South 1 applied Strong skill to South 2
+North: 100000/100000
+South: 2451/2451 3512/3512
+
+South 1 took 1063 damage from North 1 -> 1388/2451
+North: 100000/100000
+South: 1388/2451 3512/3512
+
+North 1 took 52556526 damage from South 2 -> 0/100000
+North: 0/100000
+South: 1388/2451 3512/3512
+
+Team South won.

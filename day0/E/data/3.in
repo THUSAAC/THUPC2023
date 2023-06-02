@@ -1,0 +1,27 @@
+3 3
+Weak Lv=82 maxhp=3535245 atk=95595e-5 def=68280e-6 skillLv=0 passivesklLv=1 B weaponatk=13091e0
+Average Lv=30 maxhp=15768 atk=92449e-5 def=38129e-5 skillLv=5 passivesklLv=3 G weaponatk=30000e-2
+Weak Lv=58 maxhp=1229216 atk=88964e-5 def=38645e-6 skillLv=2 passivesklLv=5 B weaponatk=23303e-1
+Strong Lv=56 maxhp=722 atk=13156e-4 def=40701e-3 skillLv=2 passivesklLv=1 B weaponatk=15329e-1
+Average Lv=38 maxhp=21646 atk=96213e-5 def=45558e-5 skillLv=5 passivesklLv=3 B weaponatk=49000e-2
+Average Lv=5 maxhp=5858 atk=81612e-5 def=21861e-5 skillLv=4 passivesklLv=2 M weaponatk=30000e-2
+19
+Specialattack target=1 atkpos=1 ddgpos=6
+Specialattack target=1 atkpos=6 ddgpos=3
+Skill target=3
+Basicattack target=2 atkpos=2 ddgpos=4
+Skill target=1
+Basicattack target=3 atkpos=4 ddgpos=4
+Specialattack target=1 atkpos=6 ddgpos=1
+Skill target=2
+Basicattack target=2 atkpos=6 ddgpos=4
+Basicattack target=3 atkpos=1 ddgpos=5
+Specialattack target=2 atkpos=3 ddgpos=6
+Specialattack target=2 atkpos=1 ddgpos=5
+Specialattack target=3 atkpos=6 ddgpos=5
+Specialattack target=2 atkpos=2 ddgpos=4
+Skill target=2
+Specialattack target=1 atkpos=4 ddgpos=6
+Specialattack target=2 atkpos=2 ddgpos=1
+Specialattack target=3 atkpos=2 ddgpos=2
+Basicattack target=2 atkpos=4 ddgpos=4

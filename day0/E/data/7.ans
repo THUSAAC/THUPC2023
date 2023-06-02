@@ -1,0 +1,50 @@
+North 1 took 65 damage from South 1 -> 2569/2634
+North: 2569/2634
+South: 1481/1481 722/722
+
+South 1 took 224 damage from North 1 -> 1257/1481
+North: 2569/2634
+South: 1257/1481 722/722
+
+North 1 took 12 damage from South 2 -> 2557/2634
+North: 2557/2634
+South: 1257/1481 722/722
+
+South 2 took 373 damage from North 1 -> 349/722
+North: 2557/2634
+South: 1257/1481 349/722
+
+North 1 took 101 damage from South 1 -> 2456/2634
+North: 2456/2634
+South: 1257/1481 349/722
+
+South 1 took 252 damage from North 1 -> 1005/1481
+South 2 took 420 damage from North 1 -> 0/722
+North: 2456/2634
+South: 1005/1481 0/722
+
+North 1 took 0 damage from South 1 -> 2456/2634
+North: 2456/2634
+South: 1005/1481 0/722
+
+South 1 took 302 damage from North 1 -> 703/1481
+North: 2456/2634
+South: 703/1481 0/722
+
+North 1 took 79 damage from South 1 -> 2377/2634
+North: 2377/2634
+South: 703/1481 0/722
+
+South 1 took 403 damage from North 1 -> 300/1481
+North: 2377/2634
+South: 300/1481 0/722
+
+South 1 applied Strong skill to South 1
+North: 2377/2634
+South: 300/1481 0/722
+
+South 1 took 302 damage from North 1 -> 0/1481
+North: 2377/2634
+South: 0/1481 0/722
+
+Team North won.

@@ -1,0 +1,96 @@
+South 1 applied Average skill to North 1
+North 1 took 78794 damage from skill -> 1046836/1125630
+North: 1046836/1125630 241171/241171
+South: 14001/14001
+
+North 1 recovered +49527 hp -> 1096363/1125630
+South 1 took 3541 damage from North 1 -> 10460/14001
+North: 1096363/1125630 241171/241171
+South: 10460/14001
+
+North 1 took 10193 damage from South 1 -> 1086170/1125630
+North 1 took 78794 damage from skill -> 1007376/1125630
+North: 1007376/1125630 241171/241171
+South: 10460/14001
+
+North 1 recovered +49527 hp -> 1056903/1125630
+South 1 took 0 damage from North 2 -> 10460/14001
+North: 1056903/1125630 241171/241171
+South: 10460/14001
+
+North 1 took 10193 damage from South 1 -> 1046710/1125630
+North 1 took 78794 damage from skill -> 967916/1125630
+North: 967916/1125630 241171/241171
+South: 10460/14001
+
+North 1 recovered +49527 hp -> 1017443/1125630
+North 1 applied Weak skill to North 1
+North 1 recovered +191357 hp -> 1125630/1125630
+North: 1125630/1125630 241171/241171
+South: 10460/14001
+
+North 2 took 29224 damage from South 1 -> 211947/241171
+North: 1125630/1125630 211947/241171
+South: 10460/14001
+
+North 2 recovered +10611 hp -> 222558/241171
+North 2 applied Weak skill to North 2
+North 2 recovered +36175 hp -> 241171/241171
+North: 1125630/1125630 241171/241171
+South: 10460/14001
+
+North 2 took 18703 damage from South 1 -> 222468/241171
+North: 1125630/1125630 222468/241171
+South: 10460/14001
+
+North 2 recovered +10611 hp -> 233079/241171
+South 1 took 3541 damage from North 1 -> 6919/14001
+North: 1125630/1125630 233079/241171
+South: 6919/14001
+
+South 1 applied Average skill to North 2
+North 2 took 16881 damage from skill -> 216198/241171
+North: 1125630/1125630 216198/241171
+South: 6919/14001
+
+North 2 recovered +10611 hp -> 226809/241171
+South 1 took 504 damage from North 2 -> 6415/14001
+North: 1125630/1125630 226809/241171
+South: 6415/14001
+
+South 1 applied Average skill to North 1
+North 1 took 78794 damage from skill -> 1046836/1125630
+North 2 took 16881 damage from skill -> 209928/241171
+North: 1046836/1125630 209928/241171
+South: 6415/14001
+
+North 1 recovered +49527 hp -> 1096363/1125630
+North 2 recovered +10611 hp -> 220539/241171
+South 1 took 5133 damage from North 1 -> 1282/14001
+North: 1096363/1125630 220539/241171
+South: 1282/14001
+
+North 2 took 23379 damage from South 1 -> 197160/241171
+North 1 took 78794 damage from skill -> 1017569/1125630
+North 2 took 16881 damage from skill -> 180279/241171
+North: 1017569/1125630 180279/241171
+South: 1282/14001
+
+North 1 recovered +49527 hp -> 1067096/1125630
+North 2 recovered +10611 hp -> 190890/241171
+South 1 took 731 damage from North 2 -> 551/14001
+North: 1067096/1125630 190890/241171
+South: 551/14001
+
+North 1 took 12742 damage from South 1 -> 1054354/1125630
+North 1 took 78794 damage from skill -> 975560/1125630
+North: 975560/1125630 190890/241171
+South: 551/14001
+
+North 1 recovered +49527 hp -> 1025087/1125630
+North 2 recovered +10611 hp -> 201501/241171
+South 1 took 4722 damage from North 1 -> 0/14001
+North: 1025087/1125630 201501/241171
+South: 0/14001
+
+Team North won.

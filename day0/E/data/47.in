@@ -1,0 +1,176 @@
+5 5
+Strong Lv=88 maxhp=2281 atk=15432e-4 def=92107e-3 skillLv=0 passivesklLv=5 M weaponatk=51572e-1
+Strong Lv=90 maxhp=2451 atk=15587e-4 def=96931e-3 skillLv=4 passivesklLv=5 G weaponatk=54199e-1
+Weak Lv=84 maxhp=3860576 atk=96169e-5 def=71597e-6 skillLv=3 passivesklLv=0 G weaponatk=10061e0
+Strong Lv=89 maxhp=2364 atk=15510e-4 def=94488e-3 skillLv=0 passivesklLv=4 B weaponatk=86884e-1
+Average Lv=86 maxhp=144876 atk=12223e-4 def=13255e-4 skillLv=5 passivesklLv=5 M weaponatk=65790e-1
+Average Lv=87 maxhp=150729 atk=12284e-4 def=13554e-4 skillLv=3 passivesklLv=3 M weaponatk=76704e-1
+Average Lv=88 maxhp=156819 atk=12346e-4 def=13859e-4 skillLv=5 passivesklLv=1 B weaponatk=65093e-1
+Weak Lv=87 maxhp=4405558 atk=97037e-5 def=76876e-6 skillLv=2 passivesklLv=1 B weaponatk=88197e-1
+Strong Lv=84 maxhp=1975 atk=15128e-4 def=83168e-3 skillLv=0 passivesklLv=3 G weaponatk=63822e-1
+Average Lv=88 maxhp=156819 atk=12346e-4 def=13859e-4 skillLv=2 passivesklLv=0 G weaponatk=72673e-1
+164
+Specialattack target=4 atkpos=5 ddgpos=5
+Skill target=4
+Basicattack target=2 atkpos=5 ddgpos=6
+Specialattack target=3 atkpos=3 ddgpos=2
+Specialattack target=5 atkpos=6 ddgpos=1
+Basicattack target=1 atkpos=1 ddgpos=6
+Specialattack target=4 atkpos=3 ddgpos=1
+Basicattack target=5 atkpos=3 ddgpos=5
+Basicattack target=1 atkpos=6 ddgpos=4
+Skill target=5
+Specialattack target=1 atkpos=5 ddgpos=4
+Basicattack target=1 atkpos=6 ddgpos=6
+Specialattack target=3 atkpos=3 ddgpos=4
+Specialattack target=2 atkpos=6 ddgpos=4
+Specialattack target=4 atkpos=6 ddgpos=1
+Basicattack target=2 atkpos=5 ddgpos=2
+Basicattack target=2 atkpos=6 ddgpos=5
+Basicattack target=3 atkpos=1 ddgpos=3
+Skill target=4
+Specialattack target=5 atkpos=2 ddgpos=3
+Specialattack target=3 atkpos=6 ddgpos=5
+Specialattack target=4 atkpos=3 ddgpos=2
+Specialattack target=1 atkpos=3 ddgpos=6
+Specialattack target=4 atkpos=3 ddgpos=3
+Specialattack target=1 atkpos=2 ddgpos=1
+Basicattack target=4 atkpos=2 ddgpos=5
+Specialattack target=5 atkpos=6 ddgpos=5
+Basicattack target=1 atkpos=4 ddgpos=1
+Basicattack target=3 atkpos=3 ddgpos=5
+Skill target=1
+Specialattack target=4 atkpos=2 ddgpos=3
+Specialattack target=2 atkpos=6 ddgpos=4
+Specialattack target=5 atkpos=6 ddgpos=5
+Basicattack target=3 atkpos=2 ddgpos=3
+Basicattack target=4 atkpos=2 ddgpos=6
+Specialattack target=5 atkpos=2 ddgpos=5
+Specialattack target=5 atkpos=4 ddgpos=1
+Specialattack target=3 atkpos=2 ddgpos=4
+Specialattack target=1 atkpos=2 ddgpos=1
+Skill target=5
+Specialattack target=5 atkpos=4 ddgpos=1
+Skill target=4
+Specialattack target=2 atkpos=3 ddgpos=5
+Specialattack target=5 atkpos=1 ddgpos=1
+Specialattack target=5 atkpos=1 ddgpos=3
+Specialattack target=2 atkpos=5 ddgpos=1
+Basicattack target=1 atkpos=4 ddgpos=4
+Basicattack target=4 atkpos=2 ddgpos=4
+Skill target=2
+Specialattack target=3 atkpos=6 ddgpos=5
+Specialattack target=1 atkpos=5 ddgpos=2
+Skill target=4
+Skill target=3
+Skill target=3
+Skill target=4
+Specialattack target=3 atkpos=1 ddgpos=6
+Specialattack target=3 atkpos=2 ddgpos=1
+Basicattack target=3 atkpos=2 ddgpos=5
+Skill target=5
+Basicattack target=1 atkpos=2 ddgpos=5
+Specialattack target=1 atkpos=4 ddgpos=3
+Skill target=4
+Skill target=2
+Specialattack target=4 atkpos=1 ddgpos=2
+Skill target=4
+Specialattack target=3 atkpos=2 ddgpos=2
+Specialattack target=5 atkpos=3 ddgpos=1
+Specialattack target=2 atkpos=4 ddgpos=3
+Specialattack target=4 atkpos=5 ddgpos=4
+Basicattack target=1 atkpos=4 ddgpos=2
+Specialattack target=2 atkpos=2 ddgpos=6
+Specialattack target=4 atkpos=4 ddgpos=6
+Basicattack target=4 atkpos=1 ddgpos=6
+Specialattack target=2 atkpos=5 ddgpos=3
+Specialattack target=4 atkpos=2 ddgpos=6
+Specialattack target=3 atkpos=6 ddgpos=2
+Basicattack target=5 atkpos=2 ddgpos=6
+Basicattack target=1 atkpos=2 ddgpos=2
+Basicattack target=3 atkpos=3 ddgpos=5
+Specialattack target=2 atkpos=1 ddgpos=1
+Specialattack target=1 atkpos=1 ddgpos=2
+Basicattack target=5 atkpos=4 ddgpos=4
+Specialattack target=4 atkpos=4 ddgpos=3
+Basicattack target=1 atkpos=1 ddgpos=5
+Specialattack target=4 atkpos=3 ddgpos=6
+Specialattack target=4 atkpos=3 ddgpos=3
+Specialattack target=1 atkpos=5 ddgpos=1
+Specialattack target=4 atkpos=1 ddgpos=1
+Skill target=4
+Specialattack target=2 atkpos=1 ddgpos=2
+Basicattack target=5 atkpos=6 ddgpos=1
+Basicattack target=2 atkpos=1 ddgpos=1
+Basicattack target=4 atkpos=5 ddgpos=3
+Specialattack target=5 atkpos=3 ddgpos=2
+Specialattack target=1 atkpos=5 ddgpos=5
+Specialattack target=1 atkpos=2 ddgpos=5
+Specialattack target=3 atkpos=4 ddgpos=1
+Specialattack target=5 atkpos=6 ddgpos=4
+Specialattack target=5 atkpos=1 ddgpos=1
+Specialattack target=1 atkpos=1 ddgpos=3
+Specialattack target=3 atkpos=1 ddgpos=6
+Skill target=3
+Basicattack target=5 atkpos=1 ddgpos=4
+Basicattack target=3 atkpos=3 ddgpos=2
+Specialattack target=4 atkpos=1 ddgpos=4
+Specialattack target=5 atkpos=2 ddgpos=1
+Specialattack target=1 atkpos=3 ddgpos=6
+Specialattack target=2 atkpos=5 ddgpos=5
+Specialattack target=1 atkpos=5 ddgpos=4
+Basicattack target=2 atkpos=3 ddgpos=4
+Skill target=3
+Skill target=5
+Specialattack target=4 atkpos=1 ddgpos=3
+Skill target=2
+Basicattack target=4 atkpos=2 ddgpos=4
+Specialattack target=1 atkpos=4 ddgpos=1
+Skill target=2
+Basicattack target=1 atkpos=1 ddgpos=3
+Specialattack target=5 atkpos=1 ddgpos=4
+Specialattack target=2 atkpos=6 ddgpos=5
+Basicattack target=1 atkpos=1 ddgpos=2
+Basicattack target=1 atkpos=3 ddgpos=5
+Specialattack target=1 atkpos=1 ddgpos=1
+Specialattack target=1 atkpos=2 ddgpos=2
+Specialattack target=5 atkpos=4 ddgpos=2
+Skill target=3
+Basicattack target=1 atkpos=4 ddgpos=6
+Basicattack target=3 atkpos=1 ddgpos=2
+Basicattack target=4 atkpos=2 ddgpos=1
+Basicattack target=2 atkpos=1 ddgpos=2
+Basicattack target=3 atkpos=2 ddgpos=4
+Basicattack target=3 atkpos=2 ddgpos=1
+Specialattack target=2 atkpos=6 ddgpos=2
+Skill target=3
+Specialattack target=4 atkpos=2 ddgpos=4
+Skill target=3
+Skill target=1
+Specialattack target=2 atkpos=3 ddgpos=3
+Basicattack target=5 atkpos=3 ddgpos=3
+Specialattack target=2 atkpos=4 ddgpos=5
+Specialattack target=5 atkpos=1 ddgpos=4
+Basicattack target=1 atkpos=6 ddgpos=6
+Basicattack target=4 atkpos=4 ddgpos=3
+Skill target=1
+Basicattack target=2 atkpos=2 ddgpos=1
+Specialattack target=1 atkpos=2 ddgpos=1
+Basicattack target=1 atkpos=1 ddgpos=4
+Specialattack target=2 atkpos=5 ddgpos=3
+Specialattack target=4 atkpos=5 ddgpos=6
+Specialattack target=2 atkpos=6 ddgpos=3
+Specialattack target=4 atkpos=5 ddgpos=2
+Basicattack target=2 atkpos=3 ddgpos=5
+Specialattack target=2 atkpos=4 ddgpos=5
+Basicattack target=2 atkpos=1 ddgpos=2
+Skill target=2
+Basicattack target=2 atkpos=4 ddgpos=3
+Specialattack target=2 atkpos=5 ddgpos=3
+Specialattack target=2 atkpos=1 ddgpos=6
+Basicattack target=3 atkpos=5 ddgpos=5
+Basicattack target=2 atkpos=5 ddgpos=2
+Basicattack target=1 atkpos=2 ddgpos=6
+Basicattack target=2 atkpos=5 ddgpos=6
+Skill target=2
+Specialattack target=2 atkpos=5 ddgpos=4

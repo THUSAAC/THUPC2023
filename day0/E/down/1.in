@@ -1,0 +1,8 @@
+2 1
+Strong Lv=90 maxhp=2451 atk=15588e-4 def=96931e-3 skillLv=5 passivesklLv=5 M weaponatk=80000e0
+Strong Lv=100 maxhp=3512 atk=16385e-4 def=12511e-2 skillLv=5 passivesklLv=5 G weaponatk=80000e0
+Weak Lv=1 maxhp=100000 atk=75000e-5 def=10000e-6 skillLv=5 passivesklLv=5 B weaponatk=80000e0
+3
+Skill target=2
+Specialattack target=1 atkpos=3 ddgpos=3
+Specialattack target=1 atkpos=5 ddgpos=5

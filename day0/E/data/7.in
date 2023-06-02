@@ -1,0 +1,17 @@
+2 1
+Strong Lv=76 maxhp=1481 atk=14536e-4 def=67809e-3 skillLv=2 passivesklLv=2 B weaponatk=43929e-1
+Strong Lv=56 maxhp=722 atk=13156e-4 def=40701e-3 skillLv=5 passivesklLv=2 B weaponatk=12356e-1
+Strong Lv=92 maxhp=2634 atk=15743e-4 def=10200e-2 skillLv=1 passivesklLv=5 G weaponatk=12271e0
+12
+Basicattack target=1 atkpos=5 ddgpos=4
+Basicattack target=1 atkpos=3 ddgpos=5
+Basicattack target=1 atkpos=2 ddgpos=6
+Basicattack target=2 atkpos=5 ddgpos=1
+Specialattack target=1 atkpos=3 ddgpos=3
+Specialattack target=1 atkpos=4 ddgpos=4
+Specialattack target=1 atkpos=6 ddgpos=3
+Specialattack target=1 atkpos=3 ddgpos=1
+Basicattack target=1 atkpos=2 ddgpos=2
+Specialattack target=1 atkpos=1 ddgpos=6
+Skill target=1
+Specialattack target=1 atkpos=1 ddgpos=5

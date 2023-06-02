@@ -1,0 +1,20 @@
+South 1 applied Average skill to North 2
+North 2 took 401602 damage from skill -> 5335581/5737183
+North: 315/315 5335581/5737183
+South: 11950/11950 25362/25362
+
+South 2 took 674 damage from North 1 -> 24688/25362
+North: 315/315 5335581/5737183
+South: 11950/11950 24688/25362
+
+North 1 took 0 damage from South 2 -> 315/315
+North 2 took 401602 damage from skill -> 4933979/5737183
+North: 315/315 4933979/5737183
+South: 11950/11950 24688/25362
+
+South 2 took 42160 damage from North 2 -> 0/25362
+South 1 took 13118 damage from North 2 -> 0/11950
+North: 315/315 4933979/5737183
+South: 0/11950 0/25362
+
+Team North won.
