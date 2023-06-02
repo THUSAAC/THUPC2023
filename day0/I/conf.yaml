@@ -1,0 +1,32 @@
+args:
+  n: 1000
+compile:
+  c: -O2 -std=c11
+  cpp: -O2 -std=c++14
+  java: ''
+  pas: -O2
+  py: ''
+data:
+- cases: [1,2,3,4,5,6,7,8,9,10]
+folder: problem
+memory limit: 1024 MiB
+name: countgraph
+partial score: false
+pre: []
+samples:
+- cases: [1,2,3]
+time limit: 2.0
+title:
+  zh-cn: 阴阳阵法
+type: program
+users: 
+  pengsijin:
+    std: {expected: == 100, path: pengsijin/std.cpp}
+    std_fast: {expected: == 100, path: pengsijin/std_fast.cpp}
+    bf:  {expected: == 0, path: pengsijin/bf.cpp}
+  ei:
+    alt: {expected: ==100, path: ei/alt.cpp}
+  zhq:
+    std: {expected: ==100, path: zhq/std_zhq.cpp}
+    std_slow: {expected: ==100, path: zhq/std_zhq_changshuboom.cpp}
+version: 2

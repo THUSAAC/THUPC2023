@@ -1,0 +1,30 @@
+args:
+  n: 1000
+compile:
+  c: -O2 -std=c11
+  cpp: -O2 -std=c++14
+  java: ''
+  pas: -O2
+  py: ''
+data:
+- cases:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+folder: problem
+memory limit: 512 MiB
+name: color
+partial score: false
+pre: []
+samples:
+- cases:
+  - 1
+time limit: 1
+title:
+  zh-cn: 着色
+type: program
+users: {}
+version: 2
