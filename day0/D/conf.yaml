@@ -1,0 +1,33 @@
+args:
+  n: 1000
+compile:
+  c: -O2 -std=c11
+  cpp: -O2 -std=c++14
+  java: ''
+  pas: -O2
+  py: ''
+data:
+- cases: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+  score: 100
+folder: problem
+memory limit: 512 MiB
+name: divisor
+partial score: false
+samples:
+- cases: [1, 2, 3]
+time limit: 2.0
+title:
+  zh-cn: 总投票数
+type: program
+users:
+  MirageFlameSword:
+    std: {expected: == 100, path: MirageFlameSword/std.cpp}
+
+    nochecksum: {expected: == 0, path: MirageFlameSword/nochecksum.cpp}
+    bothclosed: {expected: == 0, path: MirageFlameSword/bothclosed.cpp}
+    nolonglong: {expected: == 0, path: MirageFlameSword/nolonglong.cpp}
+    wronground: {expected: == 0, path: MirageFlameSword/wronground.cpp}
+  psj:
+    correct: {expected: == 0, path: psj/correct.cpp}
+    strange: {expected: == 0, path: psj/strange.cpp}
+version: 2
