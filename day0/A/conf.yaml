@@ -39,11 +39,6 @@ data:
   - 28
   - 29
   - 30
-  - 31
-  - 32
-  - 33
-  - 34
-  - 35
   score: 100
 folder: problem
 memory limit: 512 MiB
